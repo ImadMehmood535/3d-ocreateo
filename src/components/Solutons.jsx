@@ -11,21 +11,21 @@ const Solutons = () => {
         <div className="flex justify-between items-center ">
           <Tooltip
             classNames={{
-              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-blue-800"],
+              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-themePrimary-0"],
             }}
             content="Web development involves creating and maintaining websites, focusing on functionality and performance. UI (User Interface) design emphasizes the visual layout and interactive elements, ensuring they are intuitive and engaging. UX (User Experience) design prioritizes user satisfaction, enhancing usability, accessibility, and overall interaction with the website or application"
           >
-            <Chip className="bg-red-700 text-lg text-white max-w-[200px] w-full text-center">
+            <Chip className="bg-themeSecondry-0 cursor-pointer  text-lg py-8 opacity-85  text-white max-w-[200px] w-full text-center">
               Web development
             </Chip>
           </Tooltip>
           <Tooltip
             classNames={{
-              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-blue-800"],
+              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-themePrimary-0"],
             }}
             content="Web development involves creating and maintaining websites, focusing on functionality and performance. UI (User Interface) design emphasizes the visual layout and interactive elements, ensuring they are intuitive and engaging. UX (User Experience) design prioritizes user satisfaction, enhancing usability, accessibility, and overall interaction with the website or application"
           >
-            <Chip className="bg-red-700 text-lg text-white  max-w-[200px] w-full text-center">
+            <Chip className="bg-themeSecondry-0 cursor-pointer  text-lg py-8 opacity-85 text-white  max-w-[200px] w-full text-center">
               UI/UX
             </Chip>
           </Tooltip>
@@ -35,21 +35,21 @@ const Solutons = () => {
         <div className="flex justify-between items-center ">
           <Tooltip
             classNames={{
-              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-blue-800"],
+              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-themePrimary-0"],
             }}
             content="Web development involves creating and maintaining websites, focusing on functionality and performance. UI (User Interface) design emphasizes the visual layout and interactive elements, ensuring they are intuitive and engaging. UX (User Experience) design prioritizes user satisfaction, enhancing usability, accessibility, and overall interaction with the website or application"
           >
-            <Chip className="bg-red-700 text-lg text-white max-w-[200px] w-full text-center">
+            <Chip className="bg-themeSecondry-0 cursor-pointer  text-lg py-8 opacity-85 text-white max-w-[200px] w-full text-center">
               Web development
             </Chip>
           </Tooltip>
           <Tooltip
             classNames={{
-              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-blue-800"],
+              content: ["py-2 px-4 max-w-[500px]  ", "text-white bg-themePrimary-0"],
             }}
             content="Web development involves creating and maintaining websites, focusing on functionality and performance. UI (User Interface) design emphasizes the visual layout and interactive elements, ensuring they are intuitive and engaging. UX (User Experience) design prioritizes user satisfaction, enhancing usability, accessibility, and overall interaction with the website or application"
           >
-            <Chip className="bg-red-700 text-lg text-white  max-w-[200px] w-full text-center">
+            <Chip className="bg-themeSecondry-0 cursor-pointer  text-lg py-8 opacity-85 text-white  max-w-[200px] w-full text-center">
               UI/UX
             </Chip>
           </Tooltip>
