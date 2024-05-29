@@ -15,9 +15,9 @@ const ToolTipComponent = ({ content, children, position }) => {
   const calculatePosition = () => {
     switch (position) {
       case "top":
-        return { top: "-60%", left: "70%", transform: "translateX(-50%)" };
+        return { top: "-130%", left: "70%", transform: "translateX(-50%)" };
       case "bottom":
-        return { bottom: "-80%", left: "50%", transform: "translateX(-50%)" };
+        return { bottom: "-150%", left: "50%", transform: "translateX(-50%)" };
       case "left":
         return { top: "50%", right: "100%", transform: "translateY(-50%)" };
       case "right":

@@ -10,7 +10,7 @@ const Solutons = () => {
       <div className="relative">
         <Rebot3D />
       </div>
-      <div className="absolute top-[10%] bottom-0 left-0 right-0   w-full h-fit max-w-[60%] mx-auto">
+      <div className="absolute top-[10%] bottom-0 left-0 right-0 w-full h-fit max-w-[60%] mx-auto">
         <div className="flex justify-between items-center w-full ">
           <div className="flex justify-between items-center w-full">
             <ToolTipComponent position="bottom" content="Launch a stellar website that not only looks amazing but also provides a seamless user experience. Our web design and development services ensure your site is functional, responsive, and visually appealing">
@@ -42,7 +42,7 @@ const Solutons = () => {
           </div>
         </div>
       </div>
-      <div className="absolute top-[70%] bottom-0 left-0 right-0   w-full h-fit max-w-[60%] mx-auto">
+      <div className="absolute top-[70%] bottom-0 left-0 right-0  w-full h-fit max-w-[60%] mx-auto">
         <div className="flex justify-between items-center w-full ">
           <div className="flex justify-between items-center w-full">
             <ToolTipComponent position={"top"} content="Engage and grow your audience with our innovative social media strategies. We help you build a loyal community and amplify your brand's voice across all social platforms">
